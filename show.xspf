@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+ <title>Metalbaum: In The Studio (aka the Dungeon)</title>
+  <trackList>
+
+   <track>
+    <identifier>12086225</identifier>
+    <location>http://metalbaum.com/single.mp3</location>
+    <annotation>Metalbaum Jam: Peace Meal? (I don't think so!)</annotation>
+   </track>
+
+  </trackList>
+</playlist>
